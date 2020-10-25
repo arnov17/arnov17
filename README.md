@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on as Product Information in Monotaro Indonesia.
 - 🌱 I’m currently learning Typescript & Go.
-- 👯 I’m looking to New Jobs as Back-end Developer.
+- 👯 I’m looking for a new Jobs as Back-end Developer/Full-Stack Developer.
 - ⚡ Fun fact: I'm still beginner Programmer, but I'm currently learning to become expert programmer. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
