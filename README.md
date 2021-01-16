@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on as Product Information in Monotaro Indonesia.
+- 🔭 I’m currently working on as Back-End Developer in Fast-8 Group (Benefide).
 - 🌱 I’m currently learning Typescript & Go.
 - 👯 I’m looking for a new Jobs as Back-end Developer/Full-Stack Developer.
 - ⚡ I'm still beginner Programmer, but I'm currently learning to become expert programmer. 
