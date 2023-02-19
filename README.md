@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on as Back-End Developer in Fast-8 Group (payuung.com).
-- 🌱 I’m currently learning Golang.
+- 🔭 I’m currently Looking oppurtunity as Back End Developer
+- 🌱 I’m currently learning Java/Typescipt.
 - 👯 I’m looking for a new Jobs as Back-end Developer/Full-Stack Developer.
 - ⚡ I'm still beginner Programmer, but I'm currently learning to become expert programmer. 
 
